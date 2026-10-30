@@ -1,5 +1,9 @@
 # mattermost-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mattermost-or-just-updated-slack-alterna?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Mattermost template](https://railway.com/deploy/mattermost-or-just-updated-slack-alterna?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for [Mattermost](https://mattermost.com) Team Edition 11.10.0.
 
 Upstream's image is fine as it stands; everything here exists because of how
